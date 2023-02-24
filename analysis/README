@@ -1,0 +1,10 @@
+ABS events:
+    ABS_MT_SLOT:
+    * Used to distinguish between different points of contact / fingers.
+    * An ABS_MT_SLOT event indicates the slot for subsequent events
+
+    ABS_MT_POSITION_X
+    * In pixels, increasing from left (0) to right (1404)
+
+    ABS_MT_POSITION_Y
+    * In pixels, increasing from BOTTOM (0) to top (1782)
